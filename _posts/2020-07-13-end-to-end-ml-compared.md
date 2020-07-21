@@ -4,8 +4,6 @@ excerpt: "A short and concise comparison into the industry’s leading Machine L
 date: 2019-07-13
 header:
   overlay_image: "https://miro.medium.com/max/1400/1*MEOvALyLJrA9lJQvH0kBag.jpeg"
-categories:
-  - blog
 tags:
   - Machine Learning
   - Data Science
