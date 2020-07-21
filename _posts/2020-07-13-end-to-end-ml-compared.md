@@ -1,6 +1,9 @@
 ---
 title: "End-to-end Machine Learning Platforms Compared"
+excerpt: "A short and concise comparison into the industry’s leading Machine Learning Platforms."
 date: 2019-07-13
+header:
+  overlay_image: "https://miro.medium.com/max/1400/1*MEOvALyLJrA9lJQvH0kBag.jpeg"
 categories:
   - blog
 tags:
