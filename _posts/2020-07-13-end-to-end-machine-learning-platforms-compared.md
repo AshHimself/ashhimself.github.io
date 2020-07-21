@@ -4,6 +4,8 @@ excerpt: "A short and concise comparison into the industry’s leading Machine L
 date: 2019-07-13
 header:
   overlay_image: "https://miro.medium.com/max/1400/1*MEOvALyLJrA9lJQvH0kBag.jpeg"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Martin Reisch**](https://unsplash.com)"
 tags:
   - Machine Learning
   - Data Science
