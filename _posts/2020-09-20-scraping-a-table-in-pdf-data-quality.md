@@ -56,8 +56,6 @@ df.head()
 
 ![enter image description here](https://cdn-images-1.medium.com/max/1600/1*0GWeY1pJ2IRuxNIlB8hMiw.png)
 
-# need image here
-
 Pretty impressive! The only noticeable issue is that those headings won't work very well in a database so let's clean them up a little.
 
 ```python
