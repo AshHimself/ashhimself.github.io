@@ -59,7 +59,7 @@ author:
   name: "Ash Smith"
   avatar: "/assets/images/bio-photo.jpg"
   location: "Perth, Australia"
-  bio: "I like to think I know a bit about data and analytics
+  bio: "I like to think I know a bit about data and analytics."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
