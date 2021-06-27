@@ -16,7 +16,7 @@
 title: ashsmith.dev
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  I like to think I know a bit about data and analytics.
+  Dabbling in data, analytics and machine learning
 twitter_username: smithashleyg
 github_username: ashhimself
 minimal_mistakes_skin: default
@@ -59,7 +59,7 @@ author:
   name: "Ash Smith"
   avatar: "/assets/images/bio-photo.jpg"
   location: "Perth, Australia"
-  bio: "I like to think I know a bit about data and analytics."
+  bio: "Dabbling in data, analytics and machine learning"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
