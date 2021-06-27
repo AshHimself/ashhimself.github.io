@@ -16,7 +16,7 @@
 title: ashsmith.dev
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Data & Machine Learning and I spend most of at the intersection between business, data, and machine learning.
+  I like to think I know a bit about data and analytics.
 twitter_username: smithashleyg
 github_username: ashhimself
 minimal_mistakes_skin: default
@@ -59,7 +59,7 @@ author:
   name: "Ash Smith"
   avatar: "/assets/images/bio-photo.jpg"
   location: "Perth, Australia"
-  bio: "Data Platform Lead at HBF Health
+  bio: "I like to think I know a bit about data and analytics
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
