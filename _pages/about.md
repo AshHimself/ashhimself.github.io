@@ -3,8 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-*Comfortable with:* Python, SQL, dbt, Snowflake
+*Comfortable with:* AWS, Data Modeling, SQL, dbt, Snowflake, Agile
 
-*Dabbles with:* Python, Machine Learning
+*Dabbles with:* Python, Machine Learning, MLOps, Python
 
-*Loves:* My wife and kids, MLOps, Solving complex problems with simple solutions
+*Loves:* My wife and kids, Solving complex problems with simple solutions & clean data.
