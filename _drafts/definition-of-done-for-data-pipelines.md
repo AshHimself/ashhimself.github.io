@@ -1,18 +1,30 @@
 ---
-title: "Definition of Done for a Data Pipeline, "
+title: "Finding your definition of done in Data Engineering "
 excerpt: "When is it Done! Done!"
-date: 2019-07-13
+date: 2022-04-06
 header:
-  overlay_image: "https://cdn-images-1.medium.com/max/1600/1*i6Bix6qoKU0ZMdLDVfA3ww.jpeg"
+  overlay_image: "https://images.unsplash.com/photo-1607018407088-a391b60b5cf0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2874&q=80"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Tim Mossholder**](https://unsplash.com)"
+  caption: "Photo credit: [**Brett Jordan**](https://unsplash.com)"
 tags:
   - Data Engineering
 ---
 
 ## Introduction
 
-Suppose you need to ingest some data into your data warehouse and after further discussions with your stakeholders the source of this data is a PDF document. Fortunately, this is pretty easy to do using a Python package called tabula-py. In this article I'm going to walk you through how you can scrape a table embedded in a PDF file, unit test that data using Great Expectations and then if valid, save the file in S3 on AWS. You can find the full source code to this article on Github or a working example on Google Colab.
+The purpose of a Definition of Done (DoD) is to:
+- Create a shared understanding on when a task is considered `Done`. 
+- Develop consistancy across teams and projects.
+- Allow other teams, support and colleanges more easily understand what you have built.
+- We build trustworthy data products.
 
-## 0) Required Dependencies
+## So what is "Done" for you?
 
+The below list is my view of what should be done prior to a data pipeline being done, done. Its worthing noting that whilst the list needs to be contextualised the data management standard 
+
+- Data Security requirements are documented and implemented.
+- Was techincal documention created or required? If so add it to your team wiki or respository.
+- Was code written? Is it documented? 
+- Have you developed tests to ensure the data being ingested is landing as expected?
+- All required meta-data has be captured in Azure Purview,
+- 
